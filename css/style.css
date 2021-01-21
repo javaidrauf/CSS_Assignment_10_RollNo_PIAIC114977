@@ -1,0 +1,208 @@
+
+/* ------------------------------tr1---------------------------------------- */
+.tr1 td:first-child {
+    background-color: orange;
+} 
+.tr1 td:last-child {
+    background-color: rgb(0, 119, 255);
+} 
+
+/* ------------------------------tr2---------------------------------------- */
+.tr2 td:nth-child(1) {
+    background-color: rgb(234, 0, 255);
+}
+.tr2 td:nth-child(2){
+    background-color:blueviolet;
+}
+.tr2 td:nth-child(3){
+    background-color:white;
+}
+.tr2 td:nth-child(4){
+    background-color:brown;
+}
+.tr2 td{
+    background-color:lightcoral;
+}
+.tr2 td:nth-child(8){
+    background-color:rgb(219,219,15);
+}
+.tr2 td:nth-child(9){
+    background-color:rgb(0, 119, 255)
+}
+
+/* ------------------------------tr3---------------------------------------- */
+.tr3 td:nth-child(1) {
+    background-color: rgb(234, 0, 255);
+}
+.tr3 td:nth-child(2){
+    background-color:blueviolet;
+}
+.tr3 td:nth-child(3){
+    background-color:white;
+}
+.tr3 td:nth-child(4){
+    background-color:green;
+}
+.tr3 td:nth-child(5){
+    background-color:brown;
+}
+.tr3 td:nth-child(6){
+    background-color:lightcoral;
+}
+.tr3 td:nth-child(7){
+    background-color:lightcoral;
+}
+.tr3 td:nth-child(8){
+    background-color:rgb(219,219,15)
+   
+}
+.tr3 td:nth-child(9){
+    background-color: rgb(0, 119, 255)
+}
+
+/* ------------------------------tr4---------------------------------------- */
+
+.tr4 td:nth-child(1) {
+    background-color: rgb(234, 0, 255);
+}
+.tr4 td:nth-child(2){
+    background-color:blueviolet;
+}
+.tr4 td{
+    background-color:rgb(255, 196, 0);
+}
+.tr4 td:nth-child(13){
+    background-color:green;
+}
+.tr4 td:nth-child(14){
+    background-color:brown;
+}
+.tr4 td:nth-child(15){
+    background-color:brown;
+}
+.tr4 td:nth-child(16){
+    background-color:lightcoral;
+}
+.tr4 td:nth-child(17){
+    background-color:rgb(219,219,15);
+}
+.tr4 td:nth-child(18){
+    background-color: rgb(0, 119, 255)
+}
+
+/* ------------------------------tr5---------------------------------------- */
+.tr5 td:nth-child(1) {
+    background-color: rgb(234, 0, 255);
+}
+.tr5 td:nth-child(2){
+    background-color:blueviolet;
+}
+.tr5 td{
+    background-color:rgb(255, 196, 0);
+}
+.tr5 td:nth-child(13){
+    background-color:green;
+}
+.tr5 td:nth-child(14){
+    background-color:green;
+}
+.tr5 td:nth-child(15){
+    background-color:brown;
+}
+.tr5 td:nth-child(16){
+    background-color:brown;
+}
+.tr5 td:nth-child(17){
+    background-color:rgb(219,219,15);
+}
+.tr5 td:nth-child(18){
+    background-color: rgb(0, 119, 255)
+}
+
+/* ------------------------------tr6---------------------------------------- */
+.tr6 td:nth-child(1) {
+    background-color: rgb(234, 0, 255);
+}
+.tr6 td:nth-child(2){
+    background-color:blueviolet;
+}
+.tr6 td:nth-child(3){
+    background-color:lightpink;
+}
+.tr6 td{
+    background-color:rgb(255, 196, 0);
+}
+.tr6 td:nth-child(13){
+    background-color:green;
+}
+.tr6 td:nth-child(14){
+    background-color:green;
+}
+.tr6 td:nth-child(15){
+    background-color:green;
+}
+.tr6 td:nth-child(16){
+    background-color:brown;
+}
+.tr6 td:nth-child(17){
+    background-color:rgb(219,219,15);
+}
+.tr6 td:nth-child(18){
+    background-color: rgb(0, 119, 255)
+}
+
+/* ------------------------------tr7---------------------------------------- */
+.tr7 td:nth-child(1) {
+    background-color: rgb(234, 0, 255);
+}
+.tr7 td:nth-child(2){
+    background-color:blueviolet;
+}
+.tr7 td:nth-child(3){
+    background-color:lightpink;
+}
+.tr7 td{
+    background-color:rgb(255, 196, 0);
+}
+.tr7 td:nth-child(13){
+    background-color:white;
+}
+.tr7 td:nth-child(14){
+    background-color:white;
+}
+.tr7 td:nth-child(15){
+    background-color:white;
+}
+.tr7 td:nth-child(16){
+    background-color:white;
+}
+.tr7 td:nth-child(17){
+    background-color:white;
+}
+.tr7 td:nth-child(18){
+    background-color:white;
+}
+
+
+
+
+/* ------------------------------tr8---------------------------------------- */
+.tr8 td:nth-child(1){
+    background-color:white;
+}
+.tr8 td:nth-child(2){
+    background-color:white;
+}
+.tr8 td:last-child{
+    background-color:white;   
+}
+.tr8 td{
+    background-color:lightpink;
+}
+
+/* ------------------------------tr9---------------------------------------- */
+.tr9 td{
+    background-color:lightpink;
+}
+
+
